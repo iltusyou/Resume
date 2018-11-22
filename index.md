@@ -56,5 +56,5 @@ https://github.com/iltusyou?tab=repositories
  
 * 魔方數位後台協助開發 http://www.mofun.tw/ 
 
-* http://www.coatga.com/Select/zh-Tw/Home
+* http://www.coatga.com/Select/zh-Tw/Home 有多語系設定的網站
   
