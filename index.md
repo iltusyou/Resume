@@ -18,8 +18,9 @@ https://github.com/iltusyou?tab=repositories
 1. [C#網路爬蟲](https://github.com/iltusyou/WallpaperCrawler)
 用C#寫網路爬蟲下載微軟的桌布，此外也會撰寫一些對表單操作的自動化測試。
 
-1. [LeetCode](https://github.com/iltusyou/LeetCode)
-    練習LeetCode時所寫的答案
+1. [LeetCode](https://leetcode.com/iltusyou/)
+[練習LeetCode時所寫的答案](https://github.com/iltusyou/LeetCode)
+    
     
 1. linebot(可現場展示)
 
