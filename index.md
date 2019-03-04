@@ -21,11 +21,13 @@ https://github.com/iltusyou?tab=repositories
 1. [LeetCode](https://github.com/iltusyou/LeetCode)
     練習LeetCode時所寫的答案
     
-1. linebot
+1. linebot(可現場展示)
 
 ### 專長
+主要是後端(asp.net MVC)，但前端也有初階工程師的程度
 * 後端：asp.net MVC、Node.js
 * 前端：AngularJS、ReactJs、javascript、css
+
 
 ### 學經歷
 * 碩士 國立中正大學 哲學所 (2005/09 ~ 2010/07畢業)
@@ -46,7 +48,7 @@ https://github.com/iltusyou?tab=repositories
 在職期間有參與銀行網站的建置，前端與後端皆有接觸到。功能有包括給使用者查詢自身的資料，及作線上的交易。後端為用WCF撰寫service，與銀行端作電文的交換後再將資料傳到前端。前端則是用.net  MVC搭配AngularJs框架，將後端執行的結果呈現在頁面上。無論是前端與後端，都會寫對資料的驗證，也有做單元測試。除此專案外還有對舊有asp.net網站的維護。
 
 ##### 2018/4/16～至今 **CMind思脈數位有限公司**
-架設與維護電商相關網站，採用ASP.NET MVC5框架。後端語言為C#，前端使用HTML、CSS、Javascript（含JQuery和AJAX）。此外也有資料庫的規劃。
+架設與維護電商相關網站，採用ASP.NET MVC5框架。後端語言為C#，前端使用HTML、CSS、Javascript（含JQuery和AJAX）。此外也有資料庫的規劃。以下僅列部分專案。
 
 * 馬修嚴選維護 https://www.matthewschoice.com/
   負責SEO優化
@@ -54,7 +56,4 @@ https://github.com/iltusyou?tab=repositories
 * 2018世界理財規劃日主題影片競賽 http://wfpd.fpat.org.tw/
   負責資料庫規劃到程式碼撰寫實作
  
-* 魔方數位後台協助開發 http://www.mofun.tw/ 
-
-* http://www.coatga.com/Select/zh-Tw/Home 有多語系設定的網站
-  
+* 魔方數位後台協助開發 http://www.mofun.tw/
