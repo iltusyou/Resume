@@ -51,17 +51,22 @@ https://github.com/iltusyou?tab=repositories
 ##### 2018/4/16～至今 **CMind思脈數位有限公司**
 架設與維護電商相關網站，採用ASP.NET MVC5框架。後端語言為C#，前端使用HTML、CSS、Javascript（含JQuery和AJAX）。此外也有資料庫的規劃。以下僅列部分專案。
 
-* 馬修嚴選維護 https://www.matthewschoice.com/
+* 馬修嚴選維護 
+https://www.matthewschoice.com/
 負責SEO優化的程式碼撰寫
   
-* 2018世界理財規劃日主題影片競賽 http://wfpd.fpat.org.tw/
+* 2018世界理財規劃日主題影片競賽 
+http://wfpd.fpat.org.tw/
 從資料庫、多語系的規劃到程式碼的撰寫實作
 
-* 魔方數位後台協助開發 http://www.mofun.tw/
+* 魔方數位後台協助開發 
+http://www.mofun.tw/
 已有後端，負責用Vue.js寫擴充功能的網頁
 
-* 農委會相關網站 http://www.coatga.com/Select/zh-Tw/Home 
+* 農委會相關網站 
+http://www.coatga.com/Select/zh-Tw/Home 
 從資料庫、多語系的規劃到程式碼的撰寫實作
   
-* 熊金彩 LOTO 咖啡 https://www.facebook.com/loto888cafe/
+* 熊金彩 LOTO 咖啡 
+https://www.facebook.com/loto888cafe/
 從資料庫的規劃到程式碼的撰寫實作。此專案尚有寫到line bot與liff。有一個實體的咖啡機負責咖啡的販售，網站為購買紀錄與產生寄杯的qrcode。
