@@ -66,7 +66,12 @@ http://www.mofun.tw/
 * 農委會相關網站 
 http://www.coatga.com/Select/zh-Tw/Home 
 從資料庫、多語系的規劃到程式碼的撰寫實作
+
+* Altos網站
+http://www.altoscomputing.com/
+從資料庫、多語系的規劃到程式碼的撰寫實作
   
 * 熊金彩 LOTO 咖啡 
 https://www.facebook.com/loto888cafe/
 從資料庫的規劃到程式碼的撰寫實作。此專案尚有寫到line bot與liff。有一個實體的咖啡機負責咖啡的販售，網站為購買紀錄與產生寄杯的qrcode。
+[機台操作影片，僅負責linebot及lineapp的製作](https://www.facebook.com/loto888cafe/videos/631382223982086/)
